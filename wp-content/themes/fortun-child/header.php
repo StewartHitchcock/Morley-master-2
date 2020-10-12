@@ -26,18 +26,19 @@
         <div class="clearfix">
             <ul class="top-bar-text float_left">
 
-			<img class = "logo" src= '\wp-content\themes\fortun-child\img\MVSH-Logo.jpg'  alt="Morley Village Sports Hall Logo" />
+				<img class = "logo" src= '\wp-content\themes\fortun-child\img\MVSH-Logo.jpg'  alt="Morley Village Sports Hall Logo" />
 
 				<li class = "head-text">
-					<a href="www.calendarwiz.com/calendars/mvh">Check Availability / View Classes Timetabl</a> <br>
-					<p>For Bookings & Viewings:</p>
-					<a href="tel:07783153408"><i class="fas fa-phone"></i>07783 153408</a> 
+					<a href="www.calendarwiz.com/calendars/mvh">Check Availability / View Classes Timetable</a> <br>
+					<p class="">For Bookings & Viewings:</p>
+					
 					<a class="email" href="mailto:morleyvillageandsportshall@gmail.com"><i class="far fa-envelope"></i>morleyvillageandsportshall@gmail.com</a>
+					<a href="tel:01953433699"><i class="fas fa-phone"></i>01953 433699</a> 
 				</li>
 				<li class = "icns">
-					<a href="www.facebook.com/MorleyVillageHall"><i class="fab fa-facebook-f"></i></a>
-					<a href="www.twitter.com/morleysporthall"><i class="fab fa-twitter"></i></a>
-					<a href="www.instagram.com/morleyvillageandsportshall "><i class="fab fa-instagram"></i></a>
+					<a href="https://www.facebook.com/MorleyVillageHall"><i class="fab fa-facebook-f"></i></a>
+					<a href="https://www.twitter.com/morleysporthall"><i class="fab fa-twitter"></i></a>
+					<a href="https://www.instagram.com/morleyvillageandsportshall "><i class="fab fa-instagram"></i></a>
 				</li>
             </ul>
 			
